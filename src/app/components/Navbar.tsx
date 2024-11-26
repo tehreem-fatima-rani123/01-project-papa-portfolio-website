@@ -1,7 +1,7 @@
 import React from 'react'
 import Link from 'next/link'
 import Image from 'next/image'
-import profile from '@/app/components/image/0748e82f0291581f837bb097f30524db.jpg'
+import profile from '@/app/components/image/kaka nono.png'
 
 const Navbar = () => {
 
@@ -31,3 +31,4 @@ const Navbar = () => {
 }
 
 export default Navbar
+
